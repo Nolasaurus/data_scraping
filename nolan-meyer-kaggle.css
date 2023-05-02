@@ -1,22 +1,23 @@
 <style>
 
 :root{
-    --header1_color: #72ff21;
-    --header2_color: #82ff3f;
-    --header3_color: #a1ff6f;
-    --keyword_color: #a70fc6; /* import */
-    --string_color: #18e4cc;
-    --number_color: #fdbe12;
-    --def_color: #689d6a; /* class name */
-    --property_color: #458588; /* python properties */
-    --builtin_color: #689d6a;
-    --comment_color: #bebebe;
-    --comment_color_2: #458588; /* equals sign */
-    --operator_color: #d321f2;
-    --font_color: #ffe8e8; /* general font */
-    --variable2_color: #b16286; /*self keyworda */
-    --box_color: #001a9f9e;
+    --header1_color: #00b300;
+    --header2_color: #00cc00;
+    --header3_color: #00e600;
+    --keyword_color: #ff00ff; /* import */
+    --string_color: #00cccc;
+    --number_color: #ff9900;
+    --def_color: #66ff66; /* class name */
+    --property_color: #339999; /* python properties */
+    --builtin_color: #66ff66;
+    --comment_color: #6a9955;
+    --comment_color_2: #339999; /* equals sign */
+    --operator_color: #ff00ff;
+    --font_color: #cccccc; /* general font */
+    --variable2_color: #ff66cc; /*self keyworda */
+    --box_color: #0d0d0d;
 }
+
 
 
 .cm-s-jupyter span.cm-variable-2{
