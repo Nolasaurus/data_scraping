@@ -1,21 +1,21 @@
 <style>
 
 :root{
-    --header1_color: #204709;
-    --header2_color: #42841F;
-    --header3_color: #6EAF4B;
-    --keyword_color: #580768; /* import */
-    --string_color: #0e796d;
-    --number_color: #efb411;
+    --header1_color: #72ff21;
+    --header2_color: #82ff3f;
+    --header3_color: #a1ff6f;
+    --keyword_color: #a70fc6; /* import */
+    --string_color: #18e4cc;
+    --number_color: #fdbe12;
     --def_color: #689d6a; /* class name */
     --property_color: #458588; /* python properties */
     --builtin_color: #689d6a;
-    --comment_color: #9f9f9f;
+    --comment_color: #bebebe;
     --comment_color_2: #458588; /* equals sign */
-    --operator_color: #a221f2;
-    --font_color: #3c3836; /* general font */
+    --operator_color: #d321f2;
+    --font_color: #ffe8e8; /* general font */
     --variable2_color: #b16286; /*self keyworda */
-    --box_color: #97a5eb;
+    --box_color: #001a9f9e;
 }
 
 
